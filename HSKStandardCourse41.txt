@@ -96,3 +96,35 @@
 不管	bùguǎn	conj. no matter 
 与	yú	and, with 
 约会	yuēhuì	v. to date, to go to an appointment 
+// HSK Standard Course 4 上/L04
+提	tí	(v.) to mention 
+以为	yǐwéi	thougt that... 
+分	fèn	(m.) measure word ~ jobs among other things 
+完全	wánquán	(adv.) completely 
+赚	zhuàn	(v.) to earn 
+调查	diàochá	(v.) to survey; investigate 
+原来	yuánlái	(adj.) original 
+计划	jìhuà	(n./v.) plan; to intend to 
+提前	tíqián	(v.) to do (sth.) in advance; ahead of time 
+保证	bǎozhèng	(v.) to guarantee 
+提醒	tíxǐng	(v.) to remind 
+乱	luàn	(adj.) messy, confused 
+生意	shēngyi	(n.) business; trade 
+谈	tán	(v.) to talk; discuss 
+并	bìng	(adv.) ~used before negative for emphasis 
+积累	jīlěi	(v.) to accumulate 
+经验	jīngyàn	(n.) experience 
+一切	yíqiè	(pron.) all; every 
+按照	ànzhào	(prep.) according to 
+成功	chénggōng	(adj.) successful 
+顺利	shùnlì	(adj.) smooth 
+感谢	gǎnxiè	(v.) to thank 
+消息	xiāoxi	(n.) news 
+按时	ànshí	(adv.) on time; on schedule 
+奖金	jiǎngjīn	(n.) bonus; money award 
+工资	gōngzī	(n.) pay; salary 
+方法	fāngfǎ	(n.) method; way 
+知识	zhīshi	(n.) knowledge 
+不得不	bù dé bù	(adv.) to have to; to have no choice but to 
+甚至	shènzhì	(conj.) even; so far as to 
+责任	zérèn	(n.) responsibility; duty 
