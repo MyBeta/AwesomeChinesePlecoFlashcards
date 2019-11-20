@@ -147,3 +147,43 @@
 游泳	yóuyǒng	to swim
 踢	tī	to kick
 足球	zúqiú	soccer
+//Contemporary Chinese Textbook 3/Unit 05
+-着	zháo	succeed in (used as a complement to another verb)
+收拾	shōushi	get things ready; pack; tidy up
+行李	xíngli	luggage, baggage
+毛巾	máojīn	towel
+牙膏	yágāo	toothpaste
+卫生纸	wèishēngzhǐ	toilet paper
+包	bāo	bag
+装	zhuāng	pack, contain, load
+-了	liǎo	(used after a verb plus 得 or 不 to indicate an affirmative or negative potential result)
+根本	gēnběn	base, after all, fundamental
+准备	zhǔnbèi	prepare, preparation
+。。。之类	...zhīlèi	and so on
+日用品	rìyòngpǐn	daily necessities
+牙刷	yáshuā	toothbrush
+名牌	míngpái	famous brand; name brand
+发达	fādá	developed (country, etc.); flourishing; prosper
+包括	bāokuò	to include
+除非	chúfēi	unless
+商场	shāngchǎng	shopping mall
+超市	chāoshì	supermarket
+想念	xiǎngniàn	miss; remember with longing; long to see again
+趟	tàng	(measure word for round trips)
+自从	zìcóng	since, ever since, from
+神奇	shénqí	miraculous; magical; mystical
+于是	yúshì	so; therefore; thereupon
+飞	fēi	to fly
+的确	díquè	indeed, really
+感觉	gǎnjué	feel, feeling
+一辈子	yíbèizi	all one's life
+真正	zhēnzhèng	genuine; real; true
+了解	liǎojiě	comprehend; understand; know; find out
+气候	qìhòu	climate; atmosphere; weather
+受不了	shòubuliǎo	not able to bear or tolerate
+特殊	tèshū	special; particular; extraordinary; unusual
+实在	shízài	honest; in reality; honestly; indeed; certainly
+直	zhí	straight
+天坛	Tiāntán	Temple of Heaven
+纽约	Niǔyuē	New York
+芝加哥	zhījiāgē	Chicago
