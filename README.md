@@ -8,8 +8,8 @@ Import the attached files to into your [Pleco Chinese Dictionary](https://www.pl
 Please find the vocabulary of the following books: 
 * [HSK Standard Course 3](./HSKStandardCourse3.txt) (complete)
 * [HSK Standard Course 4 上](./HSKStandardCourse41.txt) (Level 01-04)
-* [New Concept Chinese 3](./NewConceptChinese3.txt) (only Chinese, no translation)
-* [Contemporary Chinese For Beginners](./ContemporaryChineseForBeginners.txt) -- from [brainscape.com/(...)/contemporary-chinese-for-beginners](https://www.brainscape.com/packs/contemporary-chinese-for-beginners-3542394) (Unit 01-11, not 100% complete)
+* [New Concept Chinese 3](./NewConceptChinese3.txt) (only Chinese, translation autofilled by Pleco)
+* [Contemporary Chinese For Beginners](./ContemporaryChineseForBeginners.txt) -- from [brainscape.com/(...)/contemporary-chinese-for-beginners](https://www.brainscape.com/packs/contemporary-chinese-for-beginners-3542394) (Lesson 01-11, not 100% complete)
 * [Contemporary Chinese Textbook 3](./ContemporaryChineseTextbook3.txt) -- from [quizlet.com/tokiro](https://quizlet.com/tokiro) (Unit 01-05)
 
 

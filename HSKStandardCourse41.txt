@@ -128,3 +128,35 @@
 不得不	bù dé bù	(adv.) to have to; to have no choice but to 
 甚至	shènzhì	(conj.) even; so far as to 
 责任	zérèn	(n.) responsibility; duty 
+// HSK Standard Course 4 上/L05
+家具	jiājù	n. furniture 
+沙发	shāfā	n. sofa 
+打折	dǎszhé	v. to give a discount 
+价格	jiàgé	n. price 
+质量	zhìliang	n. quality 
+肯定	kěndìng	adv. surely, certainly 
+流行	liúxíng	v. to be popular 
+顺便	shùnbiàn	adv. in passing 
+台	tái	m.w. used for machines 
+光	guāng	adv. only, merely 
+实在	shízài	adv. really 
+制冷	zhìlěng	v. to refrigerate 
+效果	xiàoguǒ	effect 
+现金	xiànjīn	cash 
+邀请	yāoqǐng	to invite 
+艺术	yìshù	art 
+葡萄	pútao	grape 
+味道	wèidào	taste; flavor 
+广告	guǎnggào	advertisement 
+优点	yōudiǎn	merit, strong point, virtue 
+实际	shíjì	reality; practical 
+标准	biāozhǔn	standard 
+考虑	kǎolǜ	to consider 
+年龄	niánlíng	age 
+浪费	làngfèi	to waste 
+购物	gòuwù	shop, buy things 
+尤其	yóuqí	(adv.) especially 
+受到	shòu dào	to receive 
+任何	rènhé	pron. any, whatever
+样子	yàngzi	n. look, appearance 
+寄	jì	to mail, to send 
