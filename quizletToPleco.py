@@ -24,12 +24,15 @@ a = data.split("\n")
 # regexp replace each line 
 # format: characters<tab>english<space>(pinyin)
 #exp = r'([^\t]*)\t([^\(（]*)[\(（]([^\)）]*)[\)）]'
-exp = r'([^\t]*)\t(.*)[\(（]([^\)）]*)[\)）]'
-sub = r'\1\t\3\t\2'
+exp = r'([^\t]*)\t(.*)[\(（]([^\)）]*)[\)）]'          # use this one for hanzi[tab]english(pinyin), use with sub1
+#exp = r'([^\(（]*)[\(（]([^\)）]*)[\)）]\t([^\t]*)'    # use this one for hanzi(pinyin)[tab]english, use with sub2
+#exp = r'([^\t]*)\t([^-]*)-(.*)'                        # use this one for hanzi[tab]pinyin-english, use with sub2
+sub1 = r'\1\t\3\t\2'
+sub2 = r'\1\t\2\t\3'
 # format: characters<space>(pinyin)<tab>english
 # exp = r'([^\s]*)\s[\(（]([^\)）]*)[\)）]\t(.*)'
 # sub = r'\1\t\2\t\3'
-replace_st = lambda x : re.sub(exp, sub, x)
+replace_st = lambda x : re.sub(exp, sub1, x)
 
 b = list( map(replace_st, a))
 
